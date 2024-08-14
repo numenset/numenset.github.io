@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://numenset.github.io/sitemap.html.gz
+Sitemap: https://numenset.github.io/app/sitemap.html.gz
+Sitemap: https://numenset.github.io/assets/sitemap.html.gz
+Sitemap: https://numenset.github.io/css/sitemap.html.gz
+Sitemap: https://numenset.github.io/includes/sitemap.html.gz
+Sitemap: https://numenset.github.io/item/sitemap.html.gz
+Sitemap: https://numenset.github.io/src/sitemap.html.gz
